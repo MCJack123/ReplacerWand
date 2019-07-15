@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 1,
+        "description": "Replaces blocks the user is pointing at in-place."
+    }
+}
